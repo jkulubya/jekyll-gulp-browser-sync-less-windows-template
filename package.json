@@ -1,0 +1,25 @@
+{
+  "name": "jekyll-template-master",
+  "version": "1.0.0",
+  "description": "A template for Jekyll site with Gulp, Less, Browser Sync and also Auto prefixer. There are small minor changes which are mainly fixing a few issues that Jekyll has when you are running on Windows. It was built and tested Windows 10 x64.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barptad/jekyll-gulp-browser-sync-less-windows-template.git"
+  },
+  "author": "barptad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barptad/jekyll-gulp-browser-sync-less-windows-template/issues"
+  },
+  "homepage": "https://github.com/barptad/jekyll-gulp-browser-sync-less-windows-template#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.9.3",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.1"
+  }
+}
